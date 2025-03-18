@@ -1,0 +1,15 @@
+[package]
+name = "nftbased_memberships"
+version = "1.0.0"
+authors = []
+
+[addresses]
+MyModule ="0xf1602b9325c00d5d0f57d4bb3e747ba1dd973ef366d83775c4e2072367289cc4"
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]

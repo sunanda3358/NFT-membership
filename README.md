@@ -1,10 +1,10 @@
 # NFT-Based Membership Smart Contract
 
-A simple Move smart contract for managing NFT-based memberships on the Aptos blockchain.
+A Move-based implementation for managing exclusive group memberships using NFTs on the Aptos blockchain.
 
 ## Overview
 
-This project implements a straightforward membership system using Move language on Aptos. The smart contract allows an admin to issue membership NFTs with configurable validity periods. Each membership has a unique identifier, name, expiration timestamp, and active status.
+This system uses Non-Fungible Tokens (NFTs) to represent membership in exclusive groups, clubs, or communities. By leveraging blockchain technology, membership becomes verifiable, transparent, and potentially transferable, while providing unique benefits to members.
 
 ## Project Vision
 Our vision is to revolutionize traditional membership models by leveraging blockchain technology and NFTs to create a more transparent, secure, and user-controlled membership experience. By tokenizing memberships, we aim to:
